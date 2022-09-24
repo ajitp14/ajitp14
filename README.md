@@ -22,6 +22,5 @@ I am a API developer from India.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajitp14&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
