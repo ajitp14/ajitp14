@@ -1,13 +1,7 @@
 
 
 
-### :man_technologist: About Me :
-I am a API developer from India.
-- :telescope: I’m working as a Software Engineer and contributing to backend for building APIs.
-
-- :zap: In my free time, I practise different full stack projects and read java docs.
-
----
+### :man_technologist: 
 
 ### :hammer_and_wrench: Languages and Tools :
 
